@@ -1,4 +1,5 @@
 # Backorder-Early-Warning-Classifier-Supply-Chain
+## Author: Ishika Narang
 Given what we know about a part at planning time, predicting whether it is at high risk of going on backorder soon, so planners can intervene before customers are impacted.
 n supply chain management, "backorders" occur when an order cannot be completed at the point of sale due to the item not being in the seller's inventory, even though it is still being produced or accessible from the distributor. Backorders indicate to the seller that anticipated demand has surpassed expectations, whether due to inadequate planning, supply chain problems, excessively rigid safety stock policies, or an unexpected surge in demand for a product (Jenkins, 2025).
 
